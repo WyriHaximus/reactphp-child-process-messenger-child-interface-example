@@ -1,0 +1,1 @@
+# reactphp-child-process-messenger-child-interface-example
